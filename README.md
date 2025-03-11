@@ -1,11 +1,12 @@
-👋 Hi, I’m @Ryu-Yang
+# 👋 Hey! Nice to see you.
 
-👀 I’m interested in Embodied AI
+Welcome to my GitHub profile!
+
+I’m Xiang Yang, currently interning at the Beijing Academy of Artificial Intelligence (BAAI). My primary focus and interest lie in Embodied AI.
 
 
-[![Ryu-Yang stats](https://github-readme-stats.vercel.app/api?username=Ryu-Yang&theme=buefy&show_icons=true)](https://github.com/Ryu-Yang)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Yang&theme=buefy)
+[![Ryu-Yang stats](https://github-readme-stats.vercel.app/api?username=Ryu-Yang&theme=radical&show_icons=true)](https://github.com/Ryu-Yang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Yang&theme=radical)
 
 
 <!---
