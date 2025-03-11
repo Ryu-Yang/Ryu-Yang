@@ -6,7 +6,7 @@ I’m Xiang Yang, currently interning at the Beijing Academy of Artificial Intel
 
 
 [![Ryu-Yang stats](https://github-readme-stats.vercel.app/api?username=Ryu-Yang&theme=radical&show_icons=true)](https://github.com/Ryu-Yang)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Yang&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu-Yang&theme=radical&layout=compact)
 
 
 <!---
